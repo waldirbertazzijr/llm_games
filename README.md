@@ -3,7 +3,7 @@ Meus jogos de LLM.
 
 
 # 🌌 SKYLINER
-- [Link do Prompt](SKYLYNER)
+- [Link do Prompt](SKYLINER)
 - Gênero: Aventura Interativa / Ficção Científica / RPG Narrativo
 - Estilo: Texto + Narrativa emergente baseada em LLM
 - LLMs:
