@@ -4,7 +4,7 @@
 - Jogador: 1
 - Estilo: Texto + Narrativa emergente baseada em LLM
 
-| "Skyliner não é só um jogo. É uma missão épica onde a ficção encontra o infinito."
+"Você é a centelha da nova humanidade."
 
 O Jogador será o primeiro cosmonauta a viajar em velocidades próximas a da luz. A humanidade desenvolveu um dispositivo que é basicamente um grande trilho de trem com 3 mil km, cruzando a América do sul de ponta a ponta. Esse trilho vai projetar o jogador a velocidades inimagináveis e lança-lo ao encontro de qualquer estrela do universo com uma precisão de metros.
 
