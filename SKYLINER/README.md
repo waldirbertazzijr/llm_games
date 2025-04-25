@@ -3,7 +3,7 @@ Meus jogos de LLM.
 
 
 # 🌌 SKYLINER
-![SKYLINER](<SKYLINER/SKYLINER Logo.png>)
+![SKYLINER](<SKYLINER Logo.png>)
 
 - Gênero: Aventura Interativa / Ficção Científica / RPG Narrativo
 - Plataforma: Multiplataforma
