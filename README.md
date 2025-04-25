@@ -8,8 +8,8 @@ Meus jogos de LLM.
 - Gênero: Aventura Interativa / Ficção Científica / RPG Narrativo
 - Plataforma: Multiplataforma
     - Claude 3.7 Sonnet ⭐️⭐️⭐️⭐️⭐️
-    - ChatGPT 4.0 ⭐️⭐️⭐️⭐️
-    - 
+    - GPT-4o ⭐️⭐️⭐️⭐️
+    - Ollama Gemma3 12b ⭐️⭐️⭐️⭐️
 - Ano: 2154 (ambientado)
 - Jogador: 1
 - Estilo: Texto + Narrativa emergente baseada em LLM
