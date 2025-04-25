@@ -6,7 +6,10 @@ Meus jogos de LLM.
 ![SKYLINER](<SKYLINER/SKYLINER Logo.png>)
 
 - Gênero: Aventura Interativa / Ficção Científica / RPG Narrativo
-- Plataforma: Multiplataforma (ChatGPT, Claude, Copilot, etc)
+- Plataforma: Multiplataforma
+    - Claude 3.7 Sonnet ⭐️⭐️⭐️⭐️⭐️
+    - ChatGPT 4.0 ⭐️⭐️⭐️⭐️
+    - 
 - Ano: 2154 (ambientado)
 - Jogador: 1
 - Estilo: Texto + Narrativa emergente baseada em LLM

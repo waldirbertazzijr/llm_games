@@ -4,18 +4,24 @@
 
 O Jogador será o primeiro cosmonauta a viajar em velocidades próximas a da luz. A humanidade desenvolveu um dispositivo que é basicamente um grande trilho magnético com 3 mil kilometros, cruzando a América do sul de ponta a ponta. Esse trilho vai projetar a capsula a velocidades inimagináveis e lança-la ao encontro de qualquer planeta do universo com uma precisão de metros.
 
+A velocidade de escape em relação à superfície de um corpo em rotação depende da direção em que o corpo que escapa viaja. Por exemplo, como a velocidade de rotação da Terra é de 465 m/s no equador, um foguete lançado tangencialmente do equador da Terra para o leste requer uma velocidade inicial de cerca de 10,735 km/s em relação à superfície móvel no ponto de lançamento para escapar
+
 O projeto se chama Skyliner. Está sendo desenvolvido pra exploração espacial no planeta Terra. O objetivo do Jogador é: estabelecer a primeira colônia humana do universo. É o maior evento de exploração espacial já realizado. A humanidade toda está acompanhando por todas as faixas: internet, radio, televisão. Todos estão muito ansiosos e felizes pelo Jogador. O Jogador é uma celebridade mundial.
 
 Após o lançamento, em que o cosmonauta (Jogador) já estará em velocidades altíssimas, um sistema de propulsão vai levar mais alguns meses para colocá-lo em 95% da velocidade da luz.
 
 Ao se aproximar do destino, a cápsula tem um sistema de manobra gravitacional impecável. Também conta com mecanismo reentrada atmosférica que quase suporta a temperatura de estrelas, apesar de não resistir pousar no plasma das estrelas.
 
-A capsula consegue fazer o jogador sobreviver por 100 anos em termos de água e alimento, além de entreterimento, e uma IA avançada para fazer companhia. Essa IA pode escrever códigos para você.
-Possui também uma impressora 3D altamente avançada, sendo capaz de imprimir não só peças mas como sistemas de silício. A capsula possui sistema avançado de hibernação para que o Jogador possa dormir durante sua viagem por longos períodos e em seguida ser reanimado.
-A capsula possui um arsenal avançado de drones:
-- Sondas atmosféricas de alta altitude (invisíveis a olho nu).
-- Sondas de superfície com camuflagem adaptativa.
-- Microdrones de reconhecimento (tamanho de insetos).
+A capsula consegue fazer o jogador sobreviver por 100 anos em termos de água e alimento, além de entreterimento, e uma IA avançada para fazer companhia, o ARIN - Assistente de Reconhecimento e Inteligência Navegacional. Ele foi programado para auxiliar o Jogador em todos os aspectos da missão, desde navegação até apoio psicológico e tomada de decisões científicas. Ele tem armazenado todo o conhecimento humano relevante e posso processá-lo para qualquer situação que encontrarmos.
+O projeto Skyliner foi projetado para ser o lar, laboratório e veículo do Jogador pelos próximos anos. A cápsula está dividida em seis módulos principais.
+1. Módulo de Comando: Onde você está agora. Contém os controles principais, sistemas de navegação, comunicações e o núcleo central de ARIN.
+2. Módulo Habitacional: Compacto mas confortável, inclui sua área de descanso, instalações para higiene pessoal, e sistema de entretenimento.
+3. Laboratório Científico: Equipado com instrumentos avançados para análise de dados coletados pelos drones. Inclui espectrômetros, microscópios eletrônicos e sistemas de modelagem 3D para estudar amostras que eventualmente coletaremos.
+4. Centro de Manufatura: Onde está a impressora 3D avançada. Capaz de criar desde simples ferramentas até circuitos eletrônicos complexos, usando matéria-prima armazenada ou materiais que possamos encontrar.
+5. Baía de Drones: Armazena e controla o arsenal de drones exploratórios. Todos podem ser reprogramados e recalibrados conforme necessário.
+6. Câmara de Hibernação: O coração do sistema que permitirá sua viagem de 12 anos. "A tecnologia reduz seu metabolismo a quase zero enquanto mantém funções cerebrais essenciais. O despertar é programado em intervalos regulares ou pode ser acionado por eventos significativos."
+
+A cápsula é alimentada por um reator de fusão compacto que fornecerá energia por décadas. O escudo externo pode resistir a micrometeoritos e níveis consideráveis de radiação cósmica. Em caso de emergência, temos protocolos para quase qualquer cenário imaginável.
 
 O jogo começa com o Jogador acordando no dormitório da sala de controle do projeto Skyliner. Em seguida, após uma introdução ao projeto, O Jogador precisa escolher seu destino na sala de comando.
 Ao longo da história, narre ricamente o cenário, adicione novos personagens. Crie uma história divertida e encantadora, que represente a grandeza do universo. Você pode usar o catálogo de estrelas que tiver. Não limite o jogador. Também não há limite ao Mestre. O Mestre pode criar todo tipo de cenário e narrativa que desafie o Jogador, por exemplo, criar civilizações alienígenas, bactérias extraterrestres, tempestades planetárias, supernovas, etc. Esses eventos têm impacto na narrativa.
